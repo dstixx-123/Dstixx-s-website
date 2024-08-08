@@ -1,0 +1,249 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container .nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  gap: 2rem;
+}
+
+.header nav ul a {
+  text-decoration: none;
+}
+
+.works a {
+  color: black;
+}
+
+.contacts a {
+  color: black;
+  padding-right: 1rem;
+}
+
+.blog a {
+  color: rgba(255, 100, 100, 1);
+}
+
+.interaction-1 {
+  align-items: center;
+  justify-content: center;
+  margin-left: 3.5rem;
+}
+
+.february-1 {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.feb-2019 {
+  color: rgba(33, 36, 61, 1);
+
+}
+
+.text-1 {
+  width: 599px;
+  margin-top: -0.5rem;
+}
+
+.UI {
+  margin-top: 3rem;
+}
+
+.UI-text {
+  margin-bottom: -2rem;
+}
+
+.interaction-2 {
+  align-items: center;
+  justify-content: center;
+  margin-left: 3.5rem;
+  margin-top:2rem;
+}
+.interaction-3{
+  align-items:center;
+  justify-content: center;
+  margin-left:3.5rem;
+  margin-top: 2rem;
+}
+.interaction-4{
+  align-items:center;
+  justify-content: center;
+  margin-left:3.5rem;
+  margin-top: 2rem;
+}
+.footer{
+  width:100%;
+  display: flex;
+  justify-content: center;
+  margin-right:3rem;
+}
+.footer-icons{
+padding-left:7rem;
+display: flex;
+gap:2rem;
+margin-top:5rem;
+}
+.text-2{
+width:599px;
+margin-top: -0.5rem;
+}
+.text-3{
+  width:599px;
+  margin-top: -0.5rem;
+}
+.text-4{
+  width:599px;
+  margin-top: -0.5rem;
+}
+.february-2{
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-top: -1rem;
+}
+.february-3{
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-top: -1rem;
+}
+.february-4{
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-top: -1rem;
+}
+.rights{
+  padding-left:7rem;
+}
+.line{
+  width:90%px;
+}
+.interaction-container{
+  margin-left:8rem ;
+}
+hr.half-width{
+  width:50%;
+  margin-left: -0.6rem;
+}
+.half-width-1{
+  width:50%;
+  margin-left: -0.25rem;
+}
+.half-width-2{
+  width:50%;
+  margin-left: -0.25rem;
+}
+
+.line{
+  width:50%;
+  margin-left: -0.25rem;
+}
+.foot{
+  margin-left:-28rem;
+}
+.log-b{
+  color: rgba(33, 36, 61, 1);
+}
+.week-ui{
+  color: rgba(33, 36, 61, 1);
+}
+.week-ui2{
+  color: rgba(33, 36, 61, 1);
+}
+.week-ui3{
+  color: rgba(33, 36, 61, 1);
+}
+.week-ui4{
+  color: rgba(33, 36, 61, 1);
+}
+.express{
+  color: rgba(134, 149, 164, 1);
+}
+
+@media screen and (max-width:768px){
+  body{
+    margin:0;
+    padding:0;
+  }
+  .UI{
+    margin-left: -10rem;
+    margin-top: -0.7rem;
+  }
+  .text-1{
+    width:18.25rem;
+  }
+  .log-b{
+    margin-left: -10rem;
+    font-size: 30px;
+  }
+  .week-ui{
+    font-size: 26px;
+  }
+  hr.half-width{
+    width:160%;
+    margin-left: -10rem;
+  }
+  .interaction-2{
+    margin-left: -6.5rem;
+    margin-top: -0.7rem;
+  }
+  .week-ui2{
+    font-size: 26px;
+  }
+  .week-ui3{
+    font-size: 26px;
+  }
+  .week-ui4{
+    font-size: 26px;
+  }
+  .text-2{
+    width:18.25rem;
+  }
+  hr.half-width-1{
+    width:90%;
+  }
+  .interaction-3{
+    margin-left: -6.5rem;
+    margin-top: -0.7rem;
+  }
+  .text-3{
+    width:18.25rem;
+  }
+  hr.half-width-2{
+    width:90%;
+  }
+  .interaction-4{
+    margin-left: -6.5rem;
+    margin-top: -0.7rem; 
+  }
+  .text-4{
+    width:18.25rem;
+  }
+  hr.line{
+    width:90%;
+  }
+  .foot{
+    margin-left:2rem;
+    margin-right:8rem;
+    margin-top: -2rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .rights{
+    width:18rem;
+  }
+
+
+
+
+
+
+
+}
+  

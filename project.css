@@ -1,0 +1,536 @@
+body {
+  margin: o;
+  padding: o;
+}
+
+.container .nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  gap: 2rem;
+}
+
+.John {
+  width: 19rem;
+  font-size: 32px;
+  color: rgba(33, 36, 61, 1);
+
+}
+
+.p1 {
+  width: 20rem;
+  padding-bottom: 1.5rem;
+  color: rgba(33, 36, 61, 1);
+}
+
+.resume a {
+  text-decoration: none;
+  padding: 6px;
+  background: rgba(255, 100, 100, 1);
+
+  width: 5.5rem;
+  color: white;
+}
+
+.Tech {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.ellipse {
+  width: 243px;
+}
+
+.header nav ul a {
+  text-decoration: none;
+  color: black;
+
+}
+
+.Tech2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 4rem;
+  width: 700px;
+}
+
+.second-container {
+  background-color: rgba(237, 247, 250, 1);
+
+}
+
+.posts {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: -2rem;
+  margin-top: 2rem;
+}
+
+.posts a {
+  text-decoration: none;
+}
+
+.design1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.feb1 {
+  display: flex;
+  gap: 2rem;
+}
+
+.feb1-text {
+  width: 20rem;
+}
+
+.feb2 {
+  display: flex;
+  gap: 2rem;
+}
+
+.design3 {
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+}
+
+.feb2-text {
+  width: 20rem;
+}
+
+.design2 {
+  margin-right: 2rem;
+  background-color: white;
+  padding: 1.5rem;
+}
+
+.design3 {
+  background-color: white;
+  padding: 1.5rem;
+}
+
+.recent {
+  margin-left: 8.4rem;
+  margin-top: 1rem;
+  color: rgba(33, 36, 61, 1);
+  margin-bottom: -0.5rem;
+}
+
+.Dashboard {
+  align-items: center;
+  margin-left: 1rem;
+  margin-top: -2.7rem;
+}
+
+.firstcontent {
+  display: flex;
+  align-items: center;
+}
+
+.button-dash {
+  display: flex;
+  gap: 1rem;
+}
+
+.button {
+  border: none;
+  width: 60px;
+  height: 25px;
+  color: white;
+  background-color: black;
+  border-radius: 25px;
+  font-family: heebo;
+  font-weight: weight;
+}
+
+.button-dash {
+  display: flex;
+  align-items: center;
+}
+
+.dash {
+  color: rgba(134, 149, 164, 1);
+
+}
+.illustrate{
+  color: rgba(134, 149, 164, 1);
+}
+.vibrant {
+  display: flex;
+  flex-direction: column;
+  padding-left: 1rem;
+  margin-top: -1.1rem;
+}
+
+.rectangle0 {
+  display: flex;
+}
+
+.vibrant-2020 {
+  color: rgba(33, 36, 61, 1);
+
+}
+
+.button-illustration {
+  display: flex;
+  gap: 1rem;
+  align-items: center
+}
+
+.button-2018 {
+  border: none;
+  width: 60px;
+  height: 25px;
+  color: white;
+  background-color: black;
+  border-radius: 25px;
+  font-family: heebo;
+  font-weight: weight;
+}
+
+.feb4-text {
+  width: 32rem;
+}
+
+.malayalam {
+  display: flex;
+}
+
+.malayalam-2 {
+  align-items: center;
+  padding-left: 1rem;
+  margin-top: -1.1rem;
+}
+
+.button-2018-2 {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+
+}
+
+.button-typography {
+  border: none;
+  width: 60px;
+  height: 25px;
+  color: white;
+  background-color: black;
+  border-radius: 25px;
+  font-family: heebo;
+  font-weight: weight;
+}
+.typo{
+  color: rgba(134, 149, 164, 1);
+}
+
+.feb5-text {
+  width: 32rem;
+}
+
+.footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-icons {
+  padding-left: 7rem;
+  display: flex;
+  gap: 2rem;
+  margin-top: 5rem;
+}
+
+.view {
+  margin-right: 8.4rem;
+  color: rgba(0, 168, 204, 1);
+  margin-top: 1.4rem;
+
+}
+
+.feature {
+  margin-left: 8rem;
+}
+
+.rectangle20 {
+  margin-left: 8rem;
+}
+
+.malam {
+  margin-left: 8rem;
+}
+
+.featured {
+  color: rgba(33, 36, 61, 1);
+
+}
+
+.last-color {
+  color: rgba(33, 36, 61, 1);
+}
+hr.half-width{
+  color: rgba(224, 224, 224, 1)
+}
+.malayalam-type{
+  color: rgba(33, 36, 61, 1);
+}
+.recent{
+  margin-left:20.3rem;
+}
+.view{
+margin-right: 20.3rem;
+}
+
+
+
+@media screen and (max-width:768px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .Tech2 {
+    display: flex;
+    width: 100%;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .second-container {
+    display: flex;
+    flex-direction: column;
+    margin-right: -5rem;
+
+  }
+
+  .design1 {
+    display: flex;
+    flex-direction: column;
+    margin-right: -2.8rem;
+    margin-left: -6rem;
+  }
+
+
+  .featurework {
+    width: 200px;
+    transform: translateX(-8rem);
+    justify-content: center;
+  }
+
+  .feb4-text {
+    width: 20rem;
+  }
+
+  .John {
+    width: 18rem;
+    padding-left: 4.8rem;
+    padding-right: 3rem;
+    margin-top: -1rem;
+  }
+
+  .ellipse {
+    margin-bottom: 1rem;
+  }
+
+  .creative {
+    padding-left: 4rem;
+  }
+
+  .p1 {
+    width: 20rem;
+    text-align: center;
+    padding-right: -15rem;
+    word-spacing: 5px;
+  }
+
+  .ellipse {
+    width: 145px;
+    font-size: 16px;
+  }
+
+  .resume {
+    padding-left: 5rem;
+    padding: px;
+  }
+
+  .resume a {
+    padding: 10px;
+    font-size: 20px;
+  }
+
+  .design3 {
+    padding: -1rem;
+    padding-left: -7rem;
+    margin-left: 4.5rem;
+    margin-right: 6rem;
+    padding-bottom: -8rem;
+    padding-right: -5rem;
+    padding-top: -8rem;
+  }
+
+  .feb2 {
+    gap: 1rem
+  }
+
+  .design2 {
+    margin-bottom: -2.5rem;
+    padding-left: -70rem;
+    padding-top: -50rem;
+    padding-bottom: -30rem;
+    margin-left: 0.1rem;
+    margin-right: 1.5rem;
+  }
+
+  .posts.recent {
+    display: flex;
+  }
+
+  .featured {
+    padding-left: 6rem;
+    width: 200%;
+    font-size: 18px;
+    word-spacing: 0.3rem;
+  }
+
+  .firstcontent {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10rem;
+  }
+
+  .text-dash {
+    color: rgba(33, 36, 61, 1);
+    width: 150%;
+    margin-right: 8rem;
+    margin-left: 0.5rem;
+    margin-top: -0.4rem;
+  }
+
+  .first-image {
+    width: 500px;
+    height: 230px;
+    margin-left: 18rem;
+  }
+
+  .last-color {
+    width: 150%;
+    font-size: 30px;
+  }
+
+  .Dashboard {
+    margin-left: -0.5rem;
+  }
+  hr.half-width{
+    width:550%;
+  }
+  .rectangle0{
+    display:flex;
+    flex-direction: column;
+  }
+  .rectangle{
+    margin-left:4rem;
+    width:800px;
+  }
+  .vibrant-2020{
+    margin-left:1.8rem;
+    width:20rem;
+    font-size: 30px;
+  }
+  .button-illustration{
+    margin-left: 2rem;
+    margin-top: -1.5rem;
+  }
+  .button-2018{
+    border: none;
+  width: 80px; 
+  color: white;
+  background-color: black;
+  border-radius: 30px;
+  font-family: heebo;
+  font-weight: weight;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1.5rem;
+  padding-top: 0.5rem;
+  }
+  .half-width-2{
+    width:550%;
+  }
+  .feb4-text{
+    margin-left: 2rem;
+    margin-top: -0.4rem;
+  }
+  .malayalam{
+    display: flex;
+    flex-direction: column;
+  }
+  .malayalam-pic{
+    margin-left:4rem;
+  }
+  .malayalam-type{
+    width:23rem;
+    font-size: 30px;
+    margin-left: 1rem;
+  }
+  .button-2018-2{
+    margin-left: 1.5rem;
+  }
+  .button-dash{
+    margin-top: -1.5rem;
+  }
+  .button-typography{
+    border: none;
+  width: 80px; 
+  color: white;
+  background-color: black;
+  border-radius: 30px;
+  font-family: heebo;
+  font-weight: weight;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1.5rem;
+  padding-top: 0.5rem;
+  }
+  .button-2018-2{
+    margin-top: -1.5rem;
+    margin-right: 4rem;
+    margin-left: 1rem;
+  }
+  .feb5-text{
+    margin-left:1rem;
+    margin-top: -0.3rem;
+    width: 20rem;
+  }
+  .half-width-3{
+    width:550%;
+  }
+  .footer-icons{
+    padding-left: 4rem;
+  }
+.copyright{
+  width:20rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
