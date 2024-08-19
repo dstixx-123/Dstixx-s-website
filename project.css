@@ -295,6 +295,11 @@ margin-right: 20.3rem;
     margin: 0;
     padding: 0;
   }
+  .major-container{
+    overflow-x: hidden;
+    width: 100%;
+    max-width: 100%;
+  }
 
   .Tech2 {
     display: flex;
